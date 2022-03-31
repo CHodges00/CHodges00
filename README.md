@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img width="55%" align="right" alt="Github"  />
+
 <h2> Skills  </h2>
 <a href= https://github.com/CHodges00?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/CHodges00?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
