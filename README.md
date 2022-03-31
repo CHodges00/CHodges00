@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **CHodges00/CHodges00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CHodges00.CHodges00)
 
 </p>
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
