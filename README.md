@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
 
-<div size='20px'> Hi! My name is Codt. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Cody. Thank You for taking the time to view my GitHub Profile!! 
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
