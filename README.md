@@ -60,12 +60,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CHodges00&count_private=true&show_icons=true&theme=radical" />
 </a>
 <br>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHodges00" alt="CHodges00" /></p>
-
-<br>
-<br>
-<br>
 
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHodges00&theme=radical" />
