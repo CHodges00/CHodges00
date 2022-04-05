@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
 
-<div size='40px'> Hi! My name is Cody. Thank You for taking the time to view my GitHub Profile!! 
+<div size='80px'> Hi! My name is Cody. Thank You for taking the time to view my GitHub Profile!! 
 </div>
 <br>
 <br>
