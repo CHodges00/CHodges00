@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 -->
 
 
-</p>
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
-
-<div size='80px'> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</div>
+<h2> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</h2>
 <br>
 <h2>Take some time and check out my Organization's for some cool projects 🤓</h2>
 <br>
-- 🔭 I’m currently working on ... Spring Boot
+<h2>🌱 I’m currently learning ... Spring Boot <br> 📫 How to reach me: **chodges00@gmail.com** <br> 🔭 I’m currently working on ... Some original project ideas</h2>
 <br>
 <br>
 
 
-<h2> Skills  </h2>
+<h2> Skills </h2>
 <a href= https://github.com/CHodges00?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/CHodges00?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/CHodges00?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
