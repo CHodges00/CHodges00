@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 </p>
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
 
-<div size='80px'> Hi! My name is Cody. Thank You for taking the time to view my GitHub Profile!! 
-</div>
+<div size='80px'> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile!!</div>
+<br>
+<h2>Take some time and check out my Organization's for some cool projects 🤓</h2>
 <br>
 - 🔭 I’m currently working on ... Spring Boot
 <br>
@@ -38,9 +39,6 @@ Here are some ideas to get you started:
 <a href= https://github.com/CHodges00?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href= https://github.com/CHodges00?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
