@@ -73,5 +73,5 @@
 <br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CHodges00" alt="CHodges00" />
+<img src="https://github-profile-trophy.vercel.app/?username=CHodges00" />
 </div>
