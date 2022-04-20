@@ -42,7 +42,7 @@
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
   </h2>
   
-  <a href="https://twitter.com/CHodges00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CHodges00" height="30" width="40" /></a>
+  <a href="https://twitter.com/CodyHodges00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CodyHodges00" height="30" width="40" /></a>
   
   <a href="https://linkedin.com/in/cody-hodges-434aa0227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cody-hodges-434aa0227" height="30" width="40" /></a>
   
