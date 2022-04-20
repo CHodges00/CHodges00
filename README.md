@@ -1,18 +1,4 @@
 
-<!--
-**CHodges00/CHodges00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: **chodges00@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
@@ -50,7 +36,7 @@ Here are some ideas to get you started:
 <h2>Connect with me 
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
-<a href = 'https://www.linkedin.com/in/cody-hodges-434aa0227'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+<a href = 'https://www.linkedin.com/in/cody-hodges-434aa0227'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/><p>&nbsp</p?
 </a> 
 <a href = 'https://www.github.com/CHodges00'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a> 
