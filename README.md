@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-    <img align="left"src="https://github-readme-stats.vercel.appapi?username=CHodges00&count_private=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CHodges00&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
