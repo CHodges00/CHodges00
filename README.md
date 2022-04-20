@@ -78,6 +78,9 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+<br>
+<br>
+
 <div align="center">
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHodges00" alt="CHodges00" /></a> </p>
 </div>
