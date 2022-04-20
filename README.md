@@ -10,7 +10,11 @@
 <br>
   <h3>
     - 🌱 I’m currently learning ... Spring Boot <br><br>
+  </h3>
+  <h3>
     - 📫 How to reach me **hodges.cody00@gmail.com** <br><br>
+  </h3>
+  <h3>
     - 🔭 I’m currently working on ... Some original project ideas
   </h3>
 </div>
