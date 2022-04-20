@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
 
-<div size='80px'> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile!!</div>
+<div size='80px'> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</div>
 <br>
 <h2>Take some time and check out my Organization's for some cool projects 🤓</h2>
 <br>
