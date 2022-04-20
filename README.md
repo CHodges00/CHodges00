@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
-<h2> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</h2>
+<h3> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</h3>
 <br>
-<h2>Take some time and check out my Organization's for some cool projects 🤓</h2>
+<h3>Take some time and check out my Organization's for some cool projects 🤓</h3>
 <br>
-<h2>🌱 I’m currently learning ... Spring Boot <br> 📫 How to reach me: **chodges00@gmail.com** <br> 🔭 I’m currently working on ... Some original project ideas</h2>
+<h3>🌱 I’m currently learning ... Spring Boot <br><br> 📫 How to reach me: chodges00@gmail.com <br><br> 🔭 I’m currently working on ... Some original project ideas</h3>
 <br>
 <br>
 
