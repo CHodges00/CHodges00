@@ -12,7 +12,7 @@
     - 🌱 I’m currently learning ... Spring Boot <br><br>
   </h3>
   <h3>
-    - 📫 How to reach me <a href="mailto: hodges.cody00@gmail.com?subject=E-mail response from GitHub" target="_blank">hodges.cody00@gmail.com</a> <br><br>
+    - 📫 How to reach me <a href="mailto: hodges.cody00@gmail.com?cc=hodges.cody00@gmail.com&body= - E-mail response from GitHub" target="_blank">hodges.cody00@gmail.com</a> <br><br>
   </h3>
   <h3>
     - 🔭 I’m currently working on ... Some original project ideas
