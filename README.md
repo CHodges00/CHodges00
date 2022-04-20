@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h3 Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</h3>
+<h3> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</h3>
 <br>
 <h3>Take some time and check out my Organization's for some cool projects 🤓</h3>
 <br>
@@ -33,20 +33,15 @@
 <br>
 <br>
 
-<h2 align="center">Connect with me 
+<div align="center">
+<h2>Connect with me 
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
 <a href="https://twitter.com/CHodges00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CHodges00" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cody-hodges-434aa0227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cody-hodges-434aa0227" height="30" width="40" /></a>
 <a href='https://www.github.com/CHodges00'> <img width= '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a> 
-
-  
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/charlesncharger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlesncharger" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charles willcockson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles willcockson" height="30" width="40" /></a>
-</p>
+</div>
 
 <br>
 <br>
