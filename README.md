@@ -1,6 +1,5 @@
 
 
-
 <img height="25em" src="https://komarev.com/ghpvc/?username=CHodges00" />
 
 
@@ -59,28 +58,20 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=CHodges00&count_private=true&show_icons=true&theme=radical" />
-  </a>
+    <img align="left"src="https://github-readme-stats.vercel.appapi?username=CHodges00&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHodges00" alt="CHodges00" />
-  </p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHodges00&theme=radical" />
-  </a>
 </div>
 
 <br>
 <br>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHodges00" alt="CHodges00" /</a> 
-  </p>
+<img src="https://github-profile-trophy.vercel.app/?username=CHodges00" alt="CHodges00" />
 </div>
