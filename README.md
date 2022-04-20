@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHodges00&theme=radical" />
 </a>
+  <br>
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHodges00" alt="CHodges00" /></a> </p>
 </div>
