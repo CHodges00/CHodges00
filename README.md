@@ -51,16 +51,17 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
+
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
+<div style="display: flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CHodges00&count_private=true&show_icons=true&theme=radical" />
 </a>
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHodges00" alt="CHodges00" /></p>
-<br>
 
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHodges00&theme=radical" />
 </a>
+</div>
