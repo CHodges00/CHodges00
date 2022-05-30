@@ -9,13 +9,13 @@
   <h3>Take some time and check out my Organization's for some cool projects 🤓</h3>
 <br>
   <h3>
-    - 🌱 I’m currently learning ... Spring Boot <br><br>
+    - 🌱 I’m currently learning ... React <br><br>
   </h3>
   <h3>
     - 📫 How to reach me: <a href="mailto: hodges.cody00@gmail.com?cc=cody_brandon18@yahoo.com&body= - E-mail response from GitHub" target="_blank">hodges.cody00@gmail.com</a> <br><br>
   </h3>
   <h3>
-    - 🔭 I’m currently working on ... Some original project ideas
+    - 🔭 I’m currently working on ... A side project that could be used for a HVAC company
   </h3>
 </div>
   
