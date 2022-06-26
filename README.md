@@ -60,11 +60,10 @@
    <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height='75px' width='75px'>
 </div>
 
-
-
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHodges00" alt="CHodges00" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CHodges00&count_private=true&show_icons=true&theme=radical" />
 </div>
+
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHodges00&theme=radical" />
