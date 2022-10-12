@@ -15,7 +15,7 @@
     - 📫 How to reach me: <a href="mailto: hodges.cody00@gmail.com?cc=cody_brandon18@yahoo.com&body= - E-mail response from GitHub" target="_blank">hodges.cody00@gmail.com</a> <br><br>
   </h3>
   <h3>
-    - 🔭 I’m currently working on ... An application that could be used for a HVAC company to complete work orders digitally
+    - 🔭 I’m currently working on ... An application to be used by the "SCUM" video game community to help automate tedious calculations.
   </h3>
 </div>
   
