@@ -5,18 +5,9 @@
 
 <div align="center">
   <h3> Hi‼️ My name is Cody Hodges, thank You for taking the time to view my GitHub Profile.</h3>
-<h2> This account has not had much activity since 2022, most of this work will be from my time in school and shortly after, I have since moved into using GitLab</h2>
 <br>
-  <h3>Take some time and check out my Organization's for some cool projects 🤓</h3>
-<br>
-  <h3>
-    - 🌱 I’m currently working to perfect my skills in ... Angular <br><br>
-  </h3>
   <h3>
     - 📫 How to reach me: <a href="mailto: hodges.cody00@gmail.com?cc=cody_brandon18@yahoo.com&body= - E-mail response from GitHub" target="_blank">hodges.cody00@gmail.com</a> <br><br>
-  </h3>
-  <h3>
-    - 🔭 I’m currently working on ... creating a personal project for a Social Media application.
   </h3>
 </div>
   
